@@ -54,10 +54,3 @@ The React-based application provides an intuitive interface for users to interac
 
 
 
-
-
-
-
-
-## Acknowledgements 🙌🤝
-- The project acknowledges and credits any resources, libraries, or tools used or inspired during its development.
