@@ -1,0 +1,17 @@
+
+
+@media (min-width: 400px) and (max-width: 768px) {
+    .hello{
+        background-color: rgba(127, 126, 126, 0.653) !important;
+    }
+
+    .signupBox{ 
+        height: 80vh !important;
+        position: fixed !important;
+        left: 0 !important;
+        bottom: 0 !important;
+        width: 100% !important;
+        border-bottom-left-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+    }
+  }
