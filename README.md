@@ -39,7 +39,22 @@ The React-based application provides an intuitive interface for users to interac
     ```
 
 # Some Screenshot
+- Desktop View
 ![Screenshot 2023-12-30 232952](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/b724b722-a25c-48bb-b7fb-0202bce8e6fe)
+![Screenshot 2023-12-30 215235](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/ab56d3bb-fd5b-4fd8-a133-e581454c79aa)
+![Screenshot 2023-12-30 215253](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/5441e02d-3915-4d37-a5e8-b9650c8cc7be)
+
+- Mobile View
+![Screenshot 2023-12-30 215052](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/e309ee37-fef3-4885-ae6f-4fc09fadd8ce)
+![Screenshot 2023-12-30 215152](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/70033c92-eeea-4865-9dbd-cda64325806d)
+![Screenshot 2023-12-30 233432](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/4dfa6307-fb9f-4dd1-8340-d54c533ad258)
+![Screenshot 2023-12-30 233415](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/39cfca8c-dd4e-4b27-8e05-b49a978d27bf)
+
+
+
+
+
+
 
 
 
