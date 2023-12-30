@@ -39,7 +39,8 @@ The React-based application provides an intuitive interface for users to interac
     ```
 
 # Some Screenshot
-![Screenshot 2023-12-29 214926](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/3c82767e-2c75-4196-9522-df79dece80c2)
+![Screenshot 2023-12-30 232952](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/b724b722-a25c-48bb-b7fb-0202bce8e6fe)
+
 
 
 ## Acknowledgements 🙌🤝
