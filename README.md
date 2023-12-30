@@ -38,6 +38,9 @@ The React-based application provides an intuitive interface for users to interac
     npm start
     ```
 
+# Some Screenshot
+![Screenshot 2023-12-29 214926](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1/assets/78205628/3c82767e-2c75-4196-9522-df79dece80c2)
+
 
 ## Acknowledgements 🙌🤝
 - The project acknowledges and credits any resources, libraries, or tools used or inspired during its development.
