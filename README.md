@@ -22,8 +22,10 @@ The React-based application provides an intuitive interface for users to interac
 1. **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1.git](https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1.git)
-    cd police-feedback-system
+    git clone https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1.git
+    ```
+    ```
+    cd RJPOLICE_HACK_1207_Kalki_1
     ```
 
 2. **Install Dependencies:**
