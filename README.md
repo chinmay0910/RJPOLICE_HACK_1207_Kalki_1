@@ -37,7 +37,7 @@ The React-based application provides an intuitive interface for users to interac
 3. **Start the Application:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 # Some Screenshot
