@@ -19,7 +19,7 @@ function Post({ user, postImage,postUrl, postHeading, postDescription, timestamp
   }
 
   return (
-    <div className="post rounded-lg shadow-md shadow-white">
+    <div className="post rounded-lg shadow-md shadow-white bg-black">
       
       <div className="post__image">
         <img src={postImage} alt="Post Image" />

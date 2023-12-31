@@ -33,10 +33,10 @@ function Sidenav() {
       />
 
       <div className="sidenav__buttons">
-        <button className="sidenav__button">
+        <Link className="sidenav__button" to="/">
           <HomeIcon />
           <span>Home</span>
-        </button>
+        </Link>
         <Link className="sidenav__button" to="/search">
           <SearchIcon />
           <span>Search</span>
@@ -55,7 +55,7 @@ function Sidenav() {
         </button>
         <button className="sidenav__button">
           <AddCircleOutlineIcon />
-          <span>Create</span>
+          <span>QR Feedback</span>
         </button>
         <button className="sidenav__button m-0">
           <Avatar className="scale-75">
