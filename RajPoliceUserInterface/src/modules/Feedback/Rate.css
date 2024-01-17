@@ -1,0 +1,68 @@
+html{
+    background-color: black;
+    color: blue;
+
+}
+   
+    .rating-container {
+        width: 300px;
+        height: 70vh;
+        margin: auto;
+        background-color: black;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px 6px white;
+    }
+
+    .emojis {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+
+    .emojis span {
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    .emojis span:hover {
+        transform: scale(1.2);
+    }
+
+    input[type=range] {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    textarea {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-top: 20px;
+        border-radius: 10px;
+        border: none;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    button[type=submit] {
+        background-color: #0075ff;
+        color:white;
+        border:none;
+        padding:10px 20px;
+        width: 100%;
+        margin: 20px 0px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+    }
+
+    button[type=submit]:hover {
+        background-color: #0d47a1;
+    }
+
+    @media (min-width: 280px) and (max-width: 750px) {
+        .rating-container {
+          background-color: transparent;
+          box-shadow: none;
+        }
+      }
+    
