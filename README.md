@@ -27,7 +27,7 @@ The system incorporates innovative tools:
 - **Framework:** Botpress, MongoDb Atlas, other libraries.
 
 ## Getting Started 🚀
-1. Clone the repository: `git clone https://github.com/your-username/police-feedback-system.git`
+1. Clone the repository: `git clone https://github.com/chinmay0910/RJPOLICE_HACK_1207_Kalki_1.git`
 2. Install dependencies for frontend and backend: `npm install`
 3. Configure MongoDB connection in `server/config/db.js`
 4. Start the development server: `npm run dev` or `node index.js` (both for client and server)
